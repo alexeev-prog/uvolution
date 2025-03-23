@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/github/stars/alexeev-prog/uvolution?style=for-the-badge">
     <img src="https://img.shields.io/github/issues/alexeev-prog/uvolution?style=for-the-badge">
     <img src="https://img.shields.io/github/last-commit/alexeev-prog/uvolution?style=for-the-badge">
-    <img src="https://img.shields.io/pypi/l/uvolution?style=for-the-badge">
     <img src="https://img.shields.io/pypi/wheel/uvolution?style=for-the-badge">
     <img src="https://img.shields.io/badge/coverage-54%25-54%25?style=for-the-badge" alt="">
 </p>
